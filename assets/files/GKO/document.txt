@@ -1,0 +1,1 @@
+view sql from gko database called vpagamento
